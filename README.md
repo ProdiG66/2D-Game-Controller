@@ -78,4 +78,4 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 This project is licensed under the [MIT License](LICENSE).
 
-Enjoy exploring the mesmerizing Tentacle VFX in Unreal Engine 5!
+Enjoy playtesting this case study!
