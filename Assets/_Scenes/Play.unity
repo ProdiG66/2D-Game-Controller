@@ -3849,9 +3849,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f564951bce0f5a4cb8ac987630beea3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ripplemat: {fileID: 2100000, guid: 31924d1a1db01404c8979e30d36779c8, type: 2}
+  _ripplemat: {fileID: 2100000, guid: 31924d1a1db01404c8979e30d36779c8, type: 2}
   texture: {fileID: 8400000, guid: 5bf0c81168cb9b84980469f0c9be120d, type: 2}
-  position: {x: 0, y: -5.5}
   player: {fileID: 1452534817}
   offset: {x: 0, y: 0, z: 0}
 --- !u!223 &9082828864004154148
