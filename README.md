@@ -26,7 +26,7 @@ These objectives showcase the attention to detail and advanced mechanics that co
 
 ## Requirements
 
-- Unity 2021.3.9f1 and up
+- Unity installed (version 2021.3.9f1 or later).
 
 ## Getting Started
 
