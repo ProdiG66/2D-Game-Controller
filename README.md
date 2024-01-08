@@ -38,7 +38,7 @@ These objectives showcase the attention to detail and advanced mechanics that co
 
 2. Open the project in Unity.
 
-3. Play using _Scenes/Play.scene
+3. Play using _Scenes/Play.unity
 
 ## Packages Utilized
 
